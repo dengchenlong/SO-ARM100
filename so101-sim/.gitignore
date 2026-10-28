@@ -1,0 +1,9 @@
+# 仿真工作区产物（不入库）
+.venv/
+.venv-wsl/
+__pycache__/
+*.pyc
+datasets/
+datasets_*/
+act_*_out/
+*.png
