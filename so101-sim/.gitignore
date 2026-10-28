@@ -7,3 +7,4 @@ datasets/
 datasets_*/
 act_*_out/
 *.png
+collect.log
